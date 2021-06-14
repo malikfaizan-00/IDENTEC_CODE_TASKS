@@ -1,0 +1,15 @@
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/Identec_Task.deps.json
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/Identec_Task.runtimeconfig.json
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/Identec_Task.runtimeconfig.dev.json
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/Identec_Task.dll
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/ref/Identec_Task.dll
+/Users/Malikfaizan/Documents/IDENTEC_Task/bin/Debug/net5.0/Identec_Task.pdb
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.csproj.AssemblyReference.cache
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.AssemblyInfoInputs.cache
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.AssemblyInfo.cs
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.csproj.CoreCompileInputs.cache
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.dll
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/ref/Identec_Task.dll
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.pdb
+/Users/Malikfaizan/Documents/IDENTEC_Task/obj/Debug/net5.0/Identec_Task.genruntimeconfig.cache
